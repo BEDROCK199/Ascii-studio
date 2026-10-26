@@ -4,12 +4,9 @@
 
 *A normal text editor with everything you need to make ASCII art!*
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/BEDROCK199/Ascii-studio/search?l=html)
-[![GitHub Pages](https://img.shields.io/badge/Status-Live%20Preview-7b2cbf?style=for-the-badge&logo=github&logoColor=white)](https://bedrock199.github.io/Ascii-studio/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/BEDROCK199/Ascii-studio) &nbsp;&nbsp; [![GitHub Pages](https://img.shields.io/badge/Status-Live%20Preview-7b2cbf?style=for-the-badge&logo=github&logoColor=white)](https://bedrock199.github.io/Ascii-studio/)
 
 </div>
-
----
 
 ### ✨ Features
 * **Classic Editing:** Simple and intuitive text-based layout.
